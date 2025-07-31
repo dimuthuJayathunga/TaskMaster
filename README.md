@@ -104,5 +104,3 @@ Explanation:
 The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
 
 ---
-
-Please let me know if you need any further information or assistance.
